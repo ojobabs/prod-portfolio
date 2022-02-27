@@ -1,0 +1,32 @@
+- profile:
+  initials: BV
+  name: Babatunde Ojo
+  profession: Cloud Engineer 
+  image: images/profile.jpg
+  location: Lagos, Nigeria
+  relocation: true
+  company: Tek Experts
+  for_hire: true
+  focus: Learning DevOps
+  focus_url: https://kodekloud.com
+  about: |
+    Please be free to call me ** Victor **
+    I am cloud engineer with over three years experience in cloud engineering and software engineering. 
+    I love books and football, I tend to listen more than talk.
+    *Profile loading, please check back.....
+
+
+  skills:
+    - JavaScript
+    - Python
+    - Linux
+  tools:
+    - Docker
+    - VSCode
+    - Kubernetes
+    - Ansible
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
